@@ -9,4 +9,4 @@ firefox: BROWSER=firefox
 chrome_headless: BROWSER=chrome_headless
 headless: BROWSER=headless
 
-html: --format html --out=report/report.html
+html: --format html --out=reports/report.html

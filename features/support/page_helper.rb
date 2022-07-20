@@ -6,8 +6,5 @@ def home
     @home ||= Home.new
 end
 
-def login 
-    @login ||= Login.new
 end
 
-end
